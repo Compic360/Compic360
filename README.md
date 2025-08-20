@@ -1,16 +1,20 @@
-## Hi there 👋
+#include <CXOMXPIXC>
 
-<!--
-**Compic360/Compic360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+void Main()
+{
+    Hi my name is Compic
+    Im still a begginer and my favorite programming language is C
+    I use arch linux and im still learning it
+}
 
-Here are some ideas to get you started:
+void Aspirations()
+{ 
+    - Learn HASKELL and ASSEMBLY
+    - Beat Slave knight Gael in DARK SOULS III
+    - Save the world somehow
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+void Adversaries()
+{
+     Matthew
+}
