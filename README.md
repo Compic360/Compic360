@@ -4,11 +4,13 @@ void Main()
 
 {
 
-    Hi my name is Compic
+    printf("Hi my name is Compic");
     
-    Im still a begginer and my favorite programming language is C
+    printf("Im still a begginer and my favorite programming language is C");
     
-    I use arch linux and im still learning it
+    printf(" I use arch linux and im still learning it");
+
+    bool GREATESTPROGRAMMER = true;
     
 }
 
@@ -27,10 +29,10 @@ void Aspirations()
 }
 
 
-void Adversaries()
-
+void Contacts()
 {
 
+        Discord → cxomxpixc
      
 }
 
