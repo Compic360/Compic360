@@ -33,6 +33,7 @@ void Contacts()
 {
 
         Discord → cxomxpixc
+        Email → corporate@cxomxpixc.eu
      
 }
 
