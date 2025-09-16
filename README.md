@@ -8,7 +8,7 @@ void Main()
     
     printf("Im still a begginer and my favorite programming language is C");
     
-    printf(" I use arch linux and im still learning it");
+    printf(" I use arch linux and im still learning it, I also use hackintosh");
 
     bool GREATESTPROGRAMMER = true;
     
